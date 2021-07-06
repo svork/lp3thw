@@ -1,0 +1,2 @@
+# Default line ending to Line Feed, UNIX style
+*.py text eol=lf
